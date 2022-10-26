@@ -1,3 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+  font: 20px "Montserrat", sans-serif;
+  line-height: 1.8;
+  color: #f5f6f7;
+}
+
+h3 {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+p {font-size: 16px;}
+
 .bg-1 {
   background-color: #1abc9c; /* Green */
   color: #ffffff;
